@@ -1,4 +1,25 @@
 p {
+    font-family:'Arial Narrow';
+    font-size: 14px;
     color: red;
-    font-size: 18px;
 }
+body {
+       font-family:'Times New Roman';
+       font-size: 18px;
+       color: gray
+}
+
+body{
+    width: 700px;
+    padding: 250px;
+    border: 15px solid black;
+    margin: 50px
+
+}
+a:hover {background-color: blue;
+}
+
+img{padding: 50px;
+    border: 5px black;
+     margin: 12px}
+
